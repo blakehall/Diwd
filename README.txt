@@ -1,1 +1,1 @@
-Here is a change to my awesome project.
+Here is a change to my AWESOME project.
